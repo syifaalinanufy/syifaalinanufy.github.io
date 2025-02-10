@@ -1,17 +1,17 @@
 body {
-    background-color: #FFF8E1; /* Soft light yellow background */
-    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun font */
-    text-align: center; /* Center align text */
+    background-color: #FFF8E1; 
+    font-family: 'Comic Sans MS', cursive, sans-serif; 
+    text-align: center;
 }
 
 h1 {
-    color: #FFB6C1; /* Baby pink color */
-    font-size: 48px; /* Font size */
-    margin-bottom: 20px; /* Space below the heading */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Soft shadow */
+    color: #FFB6C1; 
+    font-size: 48px; 
+    margin-bottom: 20px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
 }
 
 p {
-    color: #4A4A4A; /* Dark gray color for text */
-    font-size: 20px; /* Font size for paragraph */
+    color: #4A4A4A;
+    font-size: 20px;
 }
